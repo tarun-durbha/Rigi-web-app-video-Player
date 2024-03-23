@@ -152,7 +152,7 @@ const VideoPlayer = ({ src, watchedTime, onNextVideo, id, ...props }) => {
         </div>
 
 
-        <div className="flex flex-row w-full md:w-1/4 items-center justify-center">
+        <div className="flex flex-row w-full md:w-3/4 items-center justify-center">
           <label className="mx-2 text-sm md:text-md">Volume:</label>
           <input
             type="range"
