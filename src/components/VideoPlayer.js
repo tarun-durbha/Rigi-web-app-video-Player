@@ -3,7 +3,7 @@ import React, { useRef, useState, useEffect } from "react";
 
 const VideoPlayer = ({ src, watchedTime, onNextVideo, id, ...props }) => {
   const videoRef = useRef(null);
-  const [isPlaying, setIsPlaying] = useState(false);
+  const [isPlaying, setIsPlaying] = useState(true);
   const [currentTime, setCurrentTime] = useState(0);
   const [duration, setDuration] = useState(0);
   const [playbackSpeed, setPlaybackSpeed] = useState(1);
