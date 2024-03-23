@@ -1,6 +1,7 @@
 This repository contains Rigi's Assignment Solution, built using ReactJS.
 
-## [Live here]()
+## [Live here](https://webappvideoplayer.netlify.app/)
+## [PageSpeedInsights](https://pagespeed.web.dev/analysis/https-webappvideoplayer-netlify-app/np1gqxr5wp?form_factor=mobile)
 
 ![Alt text](</Screenshot 2024-03-23 at 11.12.28 AM.png>)
 
@@ -37,7 +38,7 @@ Implemented:
 ## Cloning the repository
 
 ```shell
-git clone 
+git clone https://github.com/tarun-durbha/rRigi-web-app-video-Player.git
 ```
 
 ## Install packages
